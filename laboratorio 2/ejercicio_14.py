@@ -1,0 +1,5 @@
+cadena = input("Introduce un mensaje de amor: ")
+cadena_mayuscula = cadena.upper()
+cadena_minuscula = cadena.lower()
+print(f"Cadena en mayuscula: {cadena_mayuscula}")
+print(f"Cadena en minuscula: {cadena_minuscula}")
